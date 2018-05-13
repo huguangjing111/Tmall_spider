@@ -24,32 +24,7 @@ class TmailSpider(scrapy.Spider):
     }
     # 登录cookies信息
     cookies = {
-        "cna": "6lBwExRTvWwCAbfpWd7N9VEj",
-        "dnk": "huguangjing211; lid=huguangjing211",
-        "enc": "1cHBhMSo0FgEUXRJA2MzYpqwNxLpKLXNoEoNNKWScL59LOL7qpyJ1wssNbSi7PNN0MsEp0oWM6VlLcZOmqLvvQ%3D%3D",
-        "otherx": "e%3D1%26p%3D*%26s%3D0%26c%3D0%26f%3D0%26g%3D0%26t%3D0",
-        "whl": "-1%260%260%260; x=__ll%3D-1%26_ato%3D0; cq=ccp%3D0",
-        "_m_h5_tk": "5796ed035cd669571726c46d6d5e58da_1526091838974",
-        "_m_h5_tk_enc": "b1ab0877786875b694505e35ed381f80",
-        "isg": "BJqaM6HelGOI7xjKLsbDI9RF60m8yx6lUZJjJ6QTQi3zFzpRjFtutWAl4-OLx5Y9",
-        "hng": ''""'',
-        "uc1": "cookie14=UoTeOLnwrfyZUQ%3D%3D&lng=zh_CN&cookie16=WqG3DMC9UpAPBHGz5QBErFxlCA%3D%3D&existShop=false&cookie21=VT5L2FSpccLuJBreK%2BBd&tag=8&cookie15=UtASsssmOIJ0bQ%3D%3D&pas=0",
-        "uc3": "nk2=CzhK%2BculrA1KnBLxno8%3D&id2=UoexN9Mfovn71g%3D%3D&vt3=F8dBz44haHeQHfYkPiI%3D&lg2=Vq8l%2BKCLz3%2F65A%3D%3D",
-        "tracknick": "huguangjing211",
-        "_l_g_": "Ug%3D%3D",
-        "ck1": '""',
-        "unb": "1655084721",
-        "lgc": "huguangjing211",
-        "cookie1": "UIY7VCYr2TXA3EhTkbsW0To7BbgWUpk2WVg9Yvn42Ms%3D",
-        "login": "true",
-        "cookie17": "UoexN9Mfovn71g%3D%3D",
-        "cookie2": "1da2d27ed000d22ca95dfb0dc774dde6",
-        "_nk_": "huguangjing211",
-        "t": "9bb504119aa719b2319f4f73766227a1",
-        "uss": '""',
-        "csg": "a2ef042f",
-        "skt": "6a85005860eb2040",
-        "_tb_token_": "3b054333abe55"
+
     }
 
     def start_requests(self):
