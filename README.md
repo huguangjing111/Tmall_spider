@@ -1,0 +1,3 @@
+# Tmall_spider
+
+cookie填写登陆的cookie或者使用模拟登陆生成cookie
